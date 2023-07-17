@@ -23,6 +23,6 @@ In this project, I have used the **face_recognition** library. With the help of 
   This is a simple Traditional Machine Learning Project. I have done Data Proprocessing, Exploratory Data Analysis(EDA), and Data Scaling, and in the end, used **LinearRegression** Model to train data and make predictions. I have built **HTML** page for UI purposes and getting input data from the user through form and sending that data to **POST API** to see prediction using POSTMAN. Using the model to predict output and then showing it on HTML Page. I have also added a **.yaml** file and **Procfile** to deploy it on Heroku. Also added the **Docter** file.
 
 ### Wine Quality Prediction - Classification
-> **Keywords:** numpy, pandas, matplotlib.pyplot, seaborn, scikit-learn *[View Source](https://github.com/rekha0suthar/boston-house-pricing-regmodel)*
+> **Keywords:** numpy, pandas, matplotlib.pyplot, seaborn, scikit-learn *[View Source](https://github.com/rekha0suthar/machine-learning-projects/tree/main/Wine%20Quality%20Prediction)*
 
 This is a simple Classification Model to predict the Quality of Wine. I have done Data Proprocessing, Exploratory Data Analysis(EDA), and Data Balancing using **SMOTE**, and finally tried many classification Models like LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, and ExtraTreeClassifier. Among all these **ExtraTreeClassifier** gave the highest accuracy.
