@@ -14,4 +14,15 @@ In this project, I have used the **face_recognition** library. With the help of 
 ### Image Classification - Cat-Dog Classifier
 >**Keywords:** fastai, gradio *[View Source](https://github.com/rekha0suthar/deep-learning-projects/tree/main/cat-dog-classifier)*
 
-I have built this model with the help of **fastai**  library and built User Interface using Gradio. We give input image of a dog or cat and the model gives output with either it is cat or dog with percentage. In UI, we can upload an image and the output will be shown on the right side. I have deployed this model on Hugging Face.
+  I have built this model with the help of **fastai**  library and built User Interface using Gradio. We give input image of a dog or cat and the model gives output with either it is cat or dog with percentage. In UI, we can upload an image and the output will be shown on the right side. I have deployed this model on Hugging Face.
+
+## Machine Learning
+### Price Prediction of House - Regression
+> **Keywords:** numpy, pandas, matplotlib.pyplot, seaborn, scikit-learn *[View Source](https://github.com/rekha0suthar/boston-house-pricing-regmodel)*
+
+  This is a simple Traditional Machine Learning Project. I have done Data Proprocessing, Exploratory Data Analysis(EDA), and Data Scaling, and in the end, used **LinearRegression** Model to train data and make predictions. I have built **HTML** page for UI purposes and getting input data from the user through form and sending that data to **POST API** to see prediction using POSTMAN. Using the model to predict output and then showing it on HTML Page. I have also added a **.yaml** file and **Procfile** to deploy it on Heroku. Also added the **Docter** file.
+
+### Wine Quality Prediction - Classification
+> **Keywords:** numpy, pandas, matplotlib.pyplot, seaborn, scikit-learn *[View Source](https://github.com/rekha0suthar/boston-house-pricing-regmodel)*
+
+This is a simple Classification Model to predict the Quality of Wine. I have done Data Proprocessing, Exploratory Data Analysis(EDA), and Data Balancing using **SMOTE**, and finally tried many classification Models like LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, and ExtraTreeClassifier. Among all these **ExtraTreeClassifier** gave the highest accuracy.
