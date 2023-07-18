@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-## Indroduction
+## Introduction
   As an aspiring and experienced Machine Learning Engineer, wanted to build a personal Machine Learning portfolio to share learnings, and experiences and collaborate with people who have the same interest in this field.
 
 ## Projects
