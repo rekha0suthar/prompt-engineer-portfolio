@@ -11,6 +11,11 @@
 
 In this project, I have used the **face_recognition** library. With the help of this library, I get face location, face embeddings, and many more features from Image. This project can detect faces in images, draw rectangles, or lines over facial features(nose, eyebrows, lips, etc.) and do some digital makeup. At the end we are giving input image and the model is giving a similar face from training data.
 
+### Digit Recognition
+>**Keywords:** numpy, pandas, Tensorflow, Keras, gradio *[View Source](https://github.com/rekha0suthar/machine-learning-portfolio/tree/main/digit-recognizer)*
+
+This is a simple **Convolutional Neural Network(CNN)** model. I have used Tensorflow and Keras in this project. I have added some **Convolutional** layers, some **Max Pooling** layers, and a **Dense** layer, and also applied **Flatten**, **Dropout**, and **RELU** activation functions. In the end, using gradio built UI where user can draw number and output will be shown on the right side with the top three highest probability digits with percentages.
+
 ### Image Classification - Cat-Dog Classifier
 >**Keywords:** fastai, gradio *[View Source](https://github.com/rekha0suthar/deep-learning-projects/tree/main/cat-dog-classifier)*
 
