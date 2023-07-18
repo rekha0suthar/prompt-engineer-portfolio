@@ -31,3 +31,8 @@ This is a simple **Convolutional Neural Network(CNN)** model. I have used Tensor
 > **Keywords:** numpy, pandas, matplotlib.pyplot, seaborn, scikit-learn *[View Source](https://github.com/rekha0suthar/machine-learning-projects/tree/main/Wine%20Quality%20Prediction)*
 
 This is a simple Classification Model to predict the Quality of Wine. I have done Data Proprocessing, Exploratory Data Analysis(EDA), and Data Balancing using **SMOTE**, and finally tried many classification Models like LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, and ExtraTreeClassifier. Among all these **ExtraTreeClassifier** gave the highest accuracy.
+
+## Course
+I have completed many Machine Learning Courses and below are some of them.
+1. Fastai - Deep Learning for Coders with Fastai and Pytorch
+2. Educative - Become Machine Learning Engineer
