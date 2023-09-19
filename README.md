@@ -8,6 +8,7 @@
 ## Prompt Engineering
 ### Restaurant-chatbot
 [View Source](https://github.com/rekha0suthar/machine-learning-portfolio/blob/main/restaurent-chatbot-prompt-engineer.ipynb)
+
 Using gpt-3.5-turbo Language model building restaurant chatbot which will take prompt and respond with an appropriate response.
 
 [screen-capture.webm](https://github.com/rekha0suthar/machine-learning-portfolio/assets/71004640/b60f311c-3ba6-45c0-a149-7a39688ed43c)
