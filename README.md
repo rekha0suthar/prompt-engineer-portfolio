@@ -1,13 +1,16 @@
 # Prompt Engineering Portfolio
 
 ## Introduction
-  As an aspiring and experienced Machine Learning Engineer, wanted to build a personal Machine Learning portfolio to share learnings, and experiences and collaborate with people who have the same interest in this field.
+  As an aspiring and experienced Prompt Machine Learning Engineer, wanted to build a personal Prompt portfolio to share learnings, and experiences and collaborate with people who have the same interest in this field.
 
 ## Projects
 
 ### Prompt Engineering
 ## Restaurant-chatbot
 [View Source](https://github.com/rekha0suthar/machine-learning-portfolio/blob/main/restaurent-chatbot-prompt-engineer.ipynb)
+
+[screen-capture.webm](https://github.com/rekha0suthar/machine-learning-portfolio/assets/71004640/b60f311c-3ba6-45c0-a149-7a39688ed43c)
+
 
 ## Deep Learning
 ### Face Detector or Face Recognition
