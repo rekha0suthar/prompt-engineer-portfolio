@@ -5,7 +5,7 @@
 
 ## Projects
 
-### Prompt Engineering
+## Prompt Engineering
 ## Restaurant-chatbot
 [View Source](https://github.com/rekha0suthar/machine-learning-portfolio/blob/main/restaurent-chatbot-prompt-engineer.ipynb)
 
